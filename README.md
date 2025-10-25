@@ -1,12 +1,12 @@
 
 ````markdown
-# 📚 DESAFIO BACK-END: GERENCIAMENTO DE LIVRARIA
+#  DESAFIO BACK-END: GERENCIAMENTO DE LIVRARIA
 
 Essa API REST foi desenvolvida em Python sendo utilizada a Framework Flask e o ORM Flask-SQLAlchemy. O MySQL foi o banco de dados escolhido para fazer a gerência dos livros. O projeto se divide em camadas como: controllers, services, models, dtos para deixar o código mais claro. Foi criado com objetivo de atender a segunda fase do processo seletivo da empresa júnior Asci.
 
 ---
 
-## 🛠️ Como Rodar o Projeto
+## Como Rodar o Projeto
 
 Para rodar o projeto localmente é preciso ter instalados:
 1. Python 3.8+
