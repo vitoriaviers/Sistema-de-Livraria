@@ -17,25 +17,25 @@ Depois de instalados, vá para a pasta raiz do projeto (`SISTEMALIVRARIA`) e sig
 
 Primeiro passo é criar o ambiente virtual:
 
-**python -m venv venv*
+*python -m venv venv*
 
 
 Segundo passo é ativarmos o ambiente virtual:
 
-**.\venv\Scripts\Activate*
+*.\venv\Scripts\Activate*
 
 
 Terceiro passo é instalar as dependências do `requirements.txt`:
 
 
-**pip install -r requirements.txt*
+*pip install -r requirements.txt*
 
 
 ### 2\. Conexão com o Banco de Dados (MySQL)
 
 Para fazer a conexão, vá ao servidor do banco de dados e crie-o:
 
-**CREATE DATABASE sistemalivraria*
+*CREATE DATABASE sistemalivraria*
 
 
 Logo em seguida, crie o arquivo `.env` na raiz do projeto e insira as credenciais de conexão (user, senha, host, porta, nome).
@@ -44,7 +44,7 @@ Logo em seguida, crie o arquivo `.env` na raiz do projeto e insira as credenciai
 
 Para iniciarmos o servidor Flask e criar a tabela `livros`, rode no terminal:
 
-**python run.py*
+*python run.py*
 
 Como resultado, será exibido **"Sucesso na criação de tabelas\!"** e o servidor deve iniciar: `* Running on http://127.0.0.1:5000`
 
