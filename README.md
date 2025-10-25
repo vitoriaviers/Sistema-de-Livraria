@@ -5,9 +5,9 @@
 **Como rodar o projeto?**
 
     Para rodar o projeto localmente é preciso ter instalados:
-    1. Python 3.8+
-    2.PIP (gerenciador de pacotes do Python)
-    3.MySQL Server
+    1. Python 3.8+   
+    2.PIP (gerenciador de pacotes do Python)  
+    3.MySQL Server  
 
     Depois de instalados, vá para a pasta raiz do projeto (SISTEMALIVRARIA) e coloque os seguintes comandos:
 
