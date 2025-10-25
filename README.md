@@ -1,6 +1,3 @@
-Eu vejo que você quer garantir que o seu `README.md` seja formatado corretamente no GitHub, pois o Markdown (a linguagem usada nos READMEs) requer linhas vazias ou sintaxe especial para pular linhas.
-
-Aqui está o seu conteúdo formatado com **Markdown** e **códigos** para garantir que ele pule as linhas e apareça profissionalmente.
 
 ````markdown
 # 📚 DESAFIO BACK-END: GERENCIAMENTO DE LIVRARIA
